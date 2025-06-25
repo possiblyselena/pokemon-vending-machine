@@ -26,3 +26,8 @@ BOM
 - Coil
 
 **Total Time spent: 3 hours**
+
+# June 25th: CAD and coding
+I realized if I make a 2 x 2 pokemon dispenser, I wouldn't be able to 3D print a big enough case for it, so I'm going to make it 2 x 1 and it makes the selection shorter (How am I going to get that many booster packs anyways). I removed 2 servos from my diagram.
+
+![image](https://github.com/user-attachments/assets/a89fd8e9-8e3d-44bb-8c84-1c8f00555e43)
