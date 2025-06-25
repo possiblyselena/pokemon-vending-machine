@@ -23,5 +23,6 @@ BOM
 - 3D printed button caps
 - plastic clear sheets
 - Velcro
+- Coil
 
 **Total Time spent: 3 hours**
