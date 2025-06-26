@@ -57,3 +57,6 @@ Ok, I made my pieces too big still, so I changed the dimensions for all the part
 
 **Time spent: 2 hours**
 
+I'm back and I designed pokeball shaped button caps for my push buttons! I'll be printing two of these. 
+![image](https://github.com/user-attachments/assets/25134dea-b024-4968-8c5f-961d3c1c71dd)
+
