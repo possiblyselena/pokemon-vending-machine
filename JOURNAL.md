@@ -29,5 +29,21 @@ BOM
 
 # June 25th: CAD and coding
 I realized if I make a 2 x 2 pokemon dispenser, I wouldn't be able to 3D print a big enough case for it, so I'm going to make it 2 x 1 and it makes the selection shorter (How am I going to get that many booster packs anyways). I removed 2 servos from my diagram.
-
 ![image](https://github.com/user-attachments/assets/a89fd8e9-8e3d-44bb-8c84-1c8f00555e43)
+
+I started on the case of my vending machine! I have two wrappers of pokemon boosters, so I used that as reference while I figure out th dimensions.
+
+*Front Plate*
+![image](https://github.com/user-attachments/assets/82c82339-bda6-4f6f-9d2a-220a4d504397)
+
+*Sides x 2*
+
+![image](https://github.com/user-attachments/assets/2c179ebc-8600-4539-8c99-0f5f7d91b9bc)
+
+*Top/Bottom x 2*
+
+![image](https://github.com/user-attachments/assets/342595c0-9223-43dc-9415-9d3ebccd962d)
+
+I still need to finish the back and interior, along with the button covers, shelves, and other contraptions with the vending machine but that's for tomorrow's session.
+
+**Total time spent: 3 hours**
