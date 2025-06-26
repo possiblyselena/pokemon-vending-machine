@@ -42,8 +42,18 @@ I started on the case of my vending machine! I have two wrappers of pokemon boos
 
 *Top/Bottom x 2*
 
-![image](https://github.com/user-attachments/assets/342595c0-9223-43dc-9415-9d3ebccd962d)
+![image](https://github.com/user-attachments/assets/342595c0-922
+3-43dc-9415-9d3ebccd962d)
 
 I still need to finish the back and interior, along with the button covers, shelves, and other contraptions with the vending machine but that's for tomorrow's session.
 
 **Total time spent: 3 hours**
+
+# June 26th: Fixing CAD
+
+Ok, I made my pieces too big still, so I changed the dimensions for all the parts. I have started assembly, so I mated the outer parts except for the back and design the inner parts as I go. I'm going to hit a quick grocery run and I'll be back later today to finish the rest.
+
+![image](https://github.com/user-attachments/assets/b7a0d49f-c6f9-4e20-9b51-722b6d585e12)
+
+**Time spent: 2 hours**
+
