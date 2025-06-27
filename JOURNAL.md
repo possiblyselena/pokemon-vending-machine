@@ -60,3 +60,13 @@ Ok, I made my pieces too big still, so I changed the dimensions for all the part
 I'm back and I designed pokeball shaped button caps for my push buttons! I'll be printing two of these. 
 ![image](https://github.com/user-attachments/assets/25134dea-b024-4968-8c5f-961d3c1c71dd)
 
+Servo attachments so I can spin the coil. I will also need two of these.
+![image](https://github.com/user-attachments/assets/5a5dd535-778b-4863-8434-ae3e1ece5d6e)
+
+The shelf the pokemon cards go on. There a hole in the bottom so I can move the LED strip through it.
+![image](https://github.com/user-attachments/assets/c8815992-7268-4831-ba4b-f5d05ebd22b4)
+
+Finished assembled case!
+![image](https://github.com/user-attachments/assets/a3cdecfd-7807-4d55-b3cb-2f08206274f2)
+
+
