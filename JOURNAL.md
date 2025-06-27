@@ -5,6 +5,7 @@ description: "Mini vending machine to dispense your booster packs!"
 created_at: "2024-06-24"
 ---
 
+# Total Time spent: 6 hours
 # June 24th: Designing the Schematic and Code sorta
 Since I'm not using a PCB for this, I used TinkerCAD to lay out all my parts and test some code out. I did not finish the code however since I can't import certain libaries, but I added some logic so I can understand myself better for next time. I actually do not own an arduino board, so I have to wait until I get my parts to program it fully. Also to note that I'm powering the LED stripe seperatly from my board, but in the schematic it's wired for visual purposes.
 ![image](https://github.com/user-attachments/assets/9b4a688b-05b4-40cd-a889-d81836076f54)
@@ -50,9 +51,10 @@ The shelf the pokemon cards go on. There a hole in the bottom so I can move the 
 ![image](https://github.com/user-attachments/assets/c8815992-7268-4831-ba4b-f5d05ebd22b4)
 
 Finished assembled case!
+
 ![image](https://github.com/user-attachments/assets/a3cdecfd-7807-4d55-b3cb-2f08206274f2)
 
 After looking at the code a bit more, I swapped out the distance sensor and refined my BOM! Now all I got to do is get my parts.
 
-** Total Time: 5 hours **
+**Total Time: 5 hours**
 
