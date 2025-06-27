@@ -62,5 +62,9 @@ After looking at the code a bit more, I swapped out the distance sensor and refi
 
 After getting feedback, I added screw holes so gluing won't be such a hassle and I rounded the case a bit more. I will be using M2.5mm x 16mm flathead screws. 
 
+![image](https://github.com/user-attachments/assets/4f138bcf-5e89-49fe-b825-517cbc0b3a13)
+
 This looks way prettier, and I managed to work on my magazine page!
+
+**Total Time: 10 mins**
 
