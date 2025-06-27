@@ -10,21 +10,6 @@ Since I'm not using a PCB for this, I used TinkerCAD to lay out all my parts and
 ![image](https://github.com/user-attachments/assets/9b4a688b-05b4-40cd-a889-d81836076f54)
 ![image](https://github.com/user-attachments/assets/c90eb0d4-8700-44bd-bcfa-4452b596b242)
 
-BOM
-- 1 x UNO R3
-- 1 x LCD 16x2 Screen with I2C Backpack
-- 2 x push buttons
-- 2 x 470 omn resistors
-- 1 x ultrasonic distance sensor
-- 4 x continuious motors
-- 1 x bread boards
-- 1 x led strip
-- 3D printed case
-- 3D printed button caps
-- plastic clear sheets
-- Velcro
-- Coil
-
 **Total Time spent: 3 hours**
 
 # June 25th: CAD and coding
@@ -55,8 +40,6 @@ Ok, I made my pieces too big still, so I changed the dimensions for all the part
 
 ![image](https://github.com/user-attachments/assets/b7a0d49f-c6f9-4e20-9b51-722b6d585e12)
 
-**Time spent: 2 hours**
-
 I'm back and I designed pokeball shaped button caps for my push buttons! I'll be printing two of these. 
 ![image](https://github.com/user-attachments/assets/25134dea-b024-4968-8c5f-961d3c1c71dd)
 
@@ -69,4 +52,7 @@ The shelf the pokemon cards go on. There a hole in the bottom so I can move the 
 Finished assembled case!
 ![image](https://github.com/user-attachments/assets/a3cdecfd-7807-4d55-b3cb-2f08206274f2)
 
+After looking at the code a bit more, I swapped out the distance sensor and refined my BOM! Now all I got to do is get my parts.
+
+** Total Time: 5 hours **
 
