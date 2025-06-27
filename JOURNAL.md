@@ -58,3 +58,9 @@ After looking at the code a bit more, I swapped out the distance sensor and refi
 
 **Total Time: 5 hours**
 
+# June 27th: Final Revisions
+
+After getting feedback, I added screw holes so gluing won't be such a hassle and I rounded the case a bit more. I will be using M2.5mm x 16mm flathead screws. 
+
+This looks way prettier, and I managed to work on my magazine page!
+
