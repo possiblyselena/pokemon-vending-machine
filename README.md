@@ -5,7 +5,8 @@ Quite recently I've been raving about Pokemon cards and I found out that there's
 The Pokemon Vending machine requires 1 TCG coin to use, then you're able to select from 1 of 2 different packs in the machine! Sounds lame but in this economy I can barely find a singular pack. Once selected, the pack will dispense on the left.
 
 # CAD
-![image](https://github.com/user-attachments/assets/311195d3-68b9-406f-a8e5-a85eb5233001)
+![image](https://github.com/user-attachments/assets/1eefb99c-fd4f-4405-bb3e-8319b8f9fcb5)
+
 
 # Wiring/TinkerCAD
 ![image](https://github.com/user-attachments/assets/32c38c4b-4098-4d50-aa19-b4dcedf4bf32)
