@@ -64,6 +64,7 @@ After getting feedback, I added screw holes so gluing won't be such a hassle and
 
 ![image](https://github.com/user-attachments/assets/4f138bcf-5e89-49fe-b825-517cbc0b3a13)
 ![image](https://github.com/user-attachments/assets/b430d746-23d7-49a5-b52d-dd36afc8d701)
+![image](https://github.com/user-attachments/assets/b80590d4-444a-4bdf-9833-d4987a4933ca)
 
 This looks way prettier, and I managed to work on my magazine page!
 
