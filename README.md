@@ -1,5 +1,7 @@
 # Mini-Pokemon Vending Machine
 
+<img width="1074" height="538" alt="image" src="https://github.com/user-attachments/assets/a977b977-85ad-4901-b009-03eabd79d5b8" />
+
 Quite recently I've been raving about Pokemon cards and I found out that there's Pokemon Vending machines. Although Canada doesn't have them yet, why not make my own personal one? It's also a cooler way to store your sealed booster packs when you're saving them for later. 
 
 The Pokemon Vending machine requires 1 TCG coin to use, then you're able to select from 1 of 2 different packs in the machine! Sounds lame but in this economy I can barely find a singular pack. Once selected, the pack will dispense on the left.
