@@ -5,7 +5,7 @@ description: "Mini vending machine to dispense your booster packs!"
 created_at: "2024-06-24"
 ---
 
-# Total Time spent: 11 hours
+# Total Time spent: 17 hours
 # June 24th: Designing the Schematic and Code sorta
 Since I'm not using a PCB for this, I used TinkerCAD to lay out all my parts and test some code out. I did not finish the code however since I can't import certain libaries, but I added some logic so I can understand myself better for next time. I actually do not own an arduino board, so I have to wait until I get my parts to program it fully. Also to note that I'm powering the LED stripe seperatly from my board, but in the schematic it's wired for visual purposes.
 ![image](https://github.com/user-attachments/assets/9b4a688b-05b4-40cd-a889-d81836076f54)
@@ -71,4 +71,22 @@ This looks way prettier, and I managed to work on my magazine page!
 ![image](https://github.com/user-attachments/assets/3d9a83b5-988e-445f-99b5-37f816705b31)
 
 **Total Time: 10 mins**
+
+# August 10th: Fixing Firmware
+
+I went to a cafe with all my components and demoed the wiring, and finished the firmware with what I left out earlier. 
+<img width="643" height="859" alt="image" src="https://github.com/user-attachments/assets/88e09791-bb50-4267-b85f-520a66b3207a" />
+<img width="1074" height="538" alt="image" src="https://github.com/user-attachments/assets/86d3cb64-8ce7-4d7e-933e-f0f857a636ba" />
+
+**Total Time: 3 hours**
+
+# August 12th: Final assembly
+
+Yay! I realized I don't have a drill, so I tenetivly glued it down and I can fasten things later. I got my code uploaded and it's all good to go!
+<img width="1074" height="538" alt="image" src="https://github.com/user-attachments/assets/a977b977-85ad-4901-b009-03eabd79d5b8" />
+
+**Total Time: 3 hours**
+
+
+
 
