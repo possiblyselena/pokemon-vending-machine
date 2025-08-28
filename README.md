@@ -1,6 +1,6 @@
 # Mini-Pokemon Vending Machine
 
-<img width="1074" height="538" alt="image" src="https://github.com/user-attachments/assets/a977b977-85ad-4901-b009-03eabd79d5b8" />
+<img width="537" height="570" alt="image" src="https://github.com/user-attachments/assets/26dfbc37-c81b-491a-8e5a-e82d90cba979" />
 
 Quite recently I've been raving about Pokemon cards and I found out that there's Pokemon Vending machines. Although Canada doesn't have them yet, why not make my own personal one? It's also a cooler way to store your sealed booster packs when you're saving them for later. 
 
