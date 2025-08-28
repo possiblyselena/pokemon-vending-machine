@@ -83,7 +83,8 @@ I went to a cafe with all my components and demoed the wiring, and finished the 
 # August 12th: Final assembly
 
 Yay! I realized I don't have a drill, so I tenetivly glued it down and I can fasten things later. I got my code uploaded and it's all good to go!
-<img width="1074" height="538" alt="image" src="https://github.com/user-attachments/assets/a977b977-85ad-4901-b009-03eabd79d5b8" />
+<img width="537" height="570" alt="image" src="https://github.com/user-attachments/assets/e72b6562-f829-46ab-937a-06e5dd987210" />
+
 
 **Total Time: 3 hours**
 
